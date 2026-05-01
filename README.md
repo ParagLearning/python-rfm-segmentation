@@ -1,2 +1,2 @@
 # python-rfm-segmentation
-Python Project
+Python RFM customer segmentation using Pandas and Matplotlib
